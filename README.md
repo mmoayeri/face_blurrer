@@ -2,7 +2,7 @@
 This code allows for images or videos to be altered to protect the identities of individuals in the pictures. Using opencv face and eye detectors, faces can be blurred out or eyes can be blacked out. 
 Blocked Eyes               | Blurred Face
 :-------------------------:|:-------------------------:
-<img src="/output/block_eyes_ferguson4.jpg" width="50%"> | <img src="/output/blur_faces_ferguson3.jpg" width="75%">
+<img src="/output/block_eyes_ferguson4.jpg" width="75%"> | <img src="/output/blur_faces_ferguson3.jpg" width="75%">
 
 ## Requirements
 * Python 3.x
